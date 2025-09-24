@@ -479,4 +479,4 @@ If this project helped you, please consider giving it a star on GitHub.
 
 ---
 
-*This project is maintained by the AI Solutions Team with ❤️ for the IT professional community.*
+*This project is maintained by Adithya T B with ❤️ for the IT Professionals Invoice generation.*
